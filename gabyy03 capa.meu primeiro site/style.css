@@ -1,0 +1,58 @@
+html{
+  margin: 0px;
+  padding: 0px;
+  border: none;
+  
+  
+}
+
+body{
+  margin: 0px;
+  right: 0px;
+  margin-top: -21px;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  padding: 0px;
+  
+
+}
+.container{
+  height: 100%;
+  
+
+}
+#cabecalho{
+  background: url("img/desigualdade-mulher.jpg");
+  background-size: cover;
+  height: 780px;
+  height: 75%;
+  text-align: center;
+  margin: auto;
+  padding: 20px;
+padding-top: 20%;
+}
+
+.texto-branco{
+  color: black;
+  text-align: center;
+  margin:auto
+}
+#titulo{
+  font-size: 80px;
+}
+#subtitulo{
+  font-size: 60px;
+  width: 1200px;
+  margin-bottom: 30px;
+  
+
+}
+.buttom{
+  border: black 2p;
+  padding: 10px;
+} footer{
+  text-align: center;
+  height: 70px;
+  background-color: gray;
+}
